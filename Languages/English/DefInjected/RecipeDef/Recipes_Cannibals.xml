@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MinceHemogenPack.label>Bleeding</MinceHemogenPack.label>
+  <MinceHemogenPack.description>Blood pumping.</MinceHemogenPack.description>
+  <MinceHemogenPack.jobString>Butchering.</MinceHemogenPack.jobString>
+
+  <CookMealFishAndBeer.label>make beer with fish</CookMealFishAndBeer.label>
+  <CookMealFishAndBeer.description>Real men's food.</CookMealFishAndBeer.description>
+  <CookMealFishAndBeer.jobString>Cooking.</CookMealFishAndBeer.jobString>
+
+  <MakeYzvar.label>Cook the uzvar</MakeYzvar.label>
+  <MakeYzvar.description>Cook uzvar from dried fruits.</MakeYzvar.description>
+  <MakeYzvar.jobString>Cooking uzvar.</MakeYzvar.jobString>
+
+
+</LanguageData>

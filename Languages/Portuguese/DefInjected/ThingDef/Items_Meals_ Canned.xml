@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DruFungus.label>Cogumelos secos</DruFungus.label>
+  <DruFungus.description>Os cogumelos secos são um produto alimentar com aroma e sabor específicos, obtido pela secagem de cogumelos comestíveis frescos. Os cogumelos secos após pré-imersão podem ser amplamente utilizados na culinária, por exemplo, em sopas, ensopados, solyanka, molhos, recheios de tortas, caviar de cogumelos.</DruFungus.description>
+
+  <DruFish.label>Peixe seco</DruFish.label>
+  <DruFish.description>O peixe seco obtido por secagem a frio é um produto semiacabado que requer processamento culinário adicional antes do consumo.</DruFish.description>
+
+  <MealFishAndBeer.label>Cerveja com peixe seco</MealFishAndBeer.label>
+  <MealFishAndBeer.description>Cerveja e peixe parecem feitos um para o outro.</MealFishAndBeer.description>
+
+  <Yzvae.label>Uzvar</Yzvae.label>
+  <Yzvae.description>Uzvar-Compota à base de frutos secos, frutos secos ou frutos secos.</Yzvae.description>
+  <Yzvae.ingestible.ingestCommandString>Beba uzvar{0}</Yzvae.ingestible.ingestCommandString>
+  <Yzvae.ingestible.ingestReportString>Bebidas{0}.</Yzvae.ingestible.ingestReportString>
+
+
+</LanguageData>

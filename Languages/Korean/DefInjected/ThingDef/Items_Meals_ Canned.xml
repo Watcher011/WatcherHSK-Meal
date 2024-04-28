@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DruFungus.label>말린 버섯</DruFungus.label>
+  <DruFungus.description>말린 버섯은 신선한 식용 버섯을 건조시켜 얻은 특정 향과 맛을 지닌 식품입니다. 미리 담근 후 말린 버섯은 수프, 스튜, 솔얀카, 소스, 파이 충전재, 버섯 캐비어 등 요리에 널리 사용할 수 있습니다.</DruFungus.description>
+
+  <DruFish.label>말린 생선</DruFish.label>
+  <DruFish.description>저온 건조를 통해 얻은 건어물은 섭취하기 전에 추가적인 조리 과정이 필요한 반제품입니다.</DruFish.description>
+
+  <MealFishAndBeer.label>건어물을 넣은 맥주</MealFishAndBeer.label>
+  <MealFishAndBeer.description>맥주와 생선은 서로 잘 어울리는 것 같아요.</MealFishAndBeer.description>
+
+  <Yzvae.label>우즈바르</Yzvae.label>
+  <Yzvae.description>건조 과일, 건조 베리 또는 말린 과일을 기본으로 한 Uzvar-Compote.</Yzvae.description>
+  <Yzvae.ingestible.ingestCommandString>우즈바라를 마셔라 {0}</Yzvae.ingestible.ingestCommandString>
+  <Yzvae.ingestible.ingestReportString>음료수{0}.</Yzvae.ingestible.ingestReportString>
+
+
+</LanguageData>

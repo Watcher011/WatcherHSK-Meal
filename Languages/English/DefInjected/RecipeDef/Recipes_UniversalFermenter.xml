@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_DriedMushrooms.label>dry the mushrooms</Make_DriedMushrooms.label>
+  <Make_DriedMushrooms.description>Dry fresh mushrooms. The process takes 2 days.</Make_DriedMushrooms.description>
+
+  <Make_DriedMushrooms_x5.label>dry the mushrooms x5</Make_DriedMushrooms_x5.label>
+  <Make_DriedMushrooms_x5.description>Dry fresh mushrooms. The process takes 2 days..</Make_DriedMushrooms_x5.description>
+
+  <Make_DriedFish.label>dry the fish</Make_DriedFish.label>
+  <Make_DriedFish.description>Dry the fish. The process takes 2 days.</Make_DriedFish.description>
+
+
+</LanguageData>

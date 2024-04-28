@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_DriedMushrooms.label>버섯을 말리다</Make_DriedMushrooms.label>
+  <Make_DriedMushrooms.description>신선한 버섯을 말리세요. 이 과정은 2일이 소요됩니다..</Make_DriedMushrooms.description>
+
+  <Make_DriedMushrooms_x5.label>마른 버섯 x5</Make_DriedMushrooms_x5.label>
+  <Make_DriedMushrooms_x5.description>신선한 버섯을 말리세요. 이 과정은 2일이 소요됩니다.</Make_DriedMushrooms_x5.description>
+
+  <Make_DriedFish.label>생선을 말리다</Make_DriedFish.label>
+  <Make_DriedFish.description>생선을 말리세요. 이 과정은 2일이 소요됩니다.</Make_DriedFish.description>
+
+
+</LanguageData>

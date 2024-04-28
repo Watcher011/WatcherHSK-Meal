@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_DriedMushrooms.label>seque os cogumelos</Make_DriedMushrooms.label>
+  <Make_DriedMushrooms.description>Seque os cogumelos frescos. O processo leva 2 dias.</Make_DriedMushrooms.description>
+
+  <Make_DriedMushrooms_x5.label>seque os cogumelos x5</Make_DriedMushrooms_x5.label>
+  <Make_DriedMushrooms_x5.description>Seque os cogumelos frescos. O processo leva 2 dias.</Make_DriedMushrooms_x5.description>
+
+  <Make_DriedFish.label>seque o peixe</Make_DriedFish.label>
+  <Make_DriedFish.description>Seque o peixe. O processo demora 2 dias.</Make_DriedFish.description>
+
+
+</LanguageData>
