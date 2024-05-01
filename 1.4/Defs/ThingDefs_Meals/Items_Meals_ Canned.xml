@@ -37,7 +37,7 @@
 	</ThingDef>
 	
 
-<ThingDef ParentName="SK_MealBase">
+<ThingDef ParentName="MealBase">
 		<defName>DruFish</defName>
 		<label>Сушеная солёная рыба</label>
 		<description>Процесс состоит из двух этапов: засолка и сушка. Засолка обязательна для продукта без термической обработки: соль уничтожит паразитов, если они есть в рыбе, и затормозит процессы разложения.</description>
@@ -73,7 +73,7 @@
 		</comps>
 	</ThingDef>
 	
-	<ThingDef ParentName="SK_MealBase">
+	<ThingDef ParentName="MealBase">
 		<defName>DruFishPlastic</defName>
 		<label>Сушеная солёная рыба в упаковке</label>
 		<description>Процесс состоит из трёх этапов: засолка , сушка и упаковка. Засолка обязательна для продукта без термической обработки: соль уничтожит паразитов, если они есть в рыбе, и затормозит процессы разложения.После упаковки в пластик можно хранить почти вечно.</description>
@@ -94,13 +94,17 @@
 		</statBases>
 		<stackLimit>75</stackLimit>
 		<ingestible>
-			<preferability>MealAwful</preferability>
+			 <preferability>MealSimple</preferability>
 			 <ingestEffect>EatMeat</ingestEffect>
 			 <ingestSound>RawMeat_Eat</ingestSound>
 			<maxNumToIngestAtOnce>4</maxNumToIngestAtOnce>
 			<tasteThought>HadGFish</tasteThought>
 			<chairSearchRadius>25</chairSearchRadius>
 		</ingestible>
+			<allowedArchonexusCount>40</allowedArchonexusCount>
+		<thingSetMakerTags>
+		<li>HSKhumanitarianSuppliesTierOne</li>
+		</thingSetMakerTags>
 	</ThingDef>
 	
 	<ThingDef ParentName="MealBeverage">
