@@ -9,6 +9,10 @@
   <CookMealFishAndBeer.description>Comida de verdade para homens.</CookMealFishAndBeer.description>
   <CookMealFishAndBeer.jobString>Trens.</CookMealFishAndBeer.jobString>
 
+  <CookMealFishinplastic.label>Sele o peixe em plástico</CookMealFishinplastic.label>
+  <CookMealFishinplastic.description>Rações embaladas para tempos difíceis.</CookMealFishinplastic.description>
+  <CookMealFishinplastic.jobString>Trens.</CookMealFishinplastic.jobString>
+
   <MakeYzvar.label>Cozinhe o uzvar</MakeYzvar.label>
   <MakeYzvar.description>Cozinhe uzvar com frutas secas.</MakeYzvar.description>
   <MakeYzvar.jobString>Cozinhando Uzvar.</MakeYzvar.jobString>

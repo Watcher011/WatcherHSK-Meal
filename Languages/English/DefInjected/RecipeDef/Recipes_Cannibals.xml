@@ -9,6 +9,10 @@
   <CookMealFishAndBeer.description>Real men's food.</CookMealFishAndBeer.description>
   <CookMealFishAndBeer.jobString>Cooking.</CookMealFishAndBeer.jobString>
 
+  <CookMealFishinplastic.label>Запечатать рыбу в пластик</CookMealFishinplastic.label>
+  <CookMealFishinplastic.description>Сухой паёк на тяжелые времена.</CookMealFishinplastic.description>
+  <CookMealFishinplastic.jobString>Готовит.</CookMealFishinplastic.jobString>
+
   <MakeYzvar.label>Cook the uzvar</MakeYzvar.label>
   <MakeYzvar.description>Cook uzvar from dried fruits.</MakeYzvar.description>
   <MakeYzvar.jobString>Cooking uzvar.</MakeYzvar.jobString>

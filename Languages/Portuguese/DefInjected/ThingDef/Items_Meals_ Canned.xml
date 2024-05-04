@@ -7,6 +7,9 @@
   <DruFish.label>Peixe seco</DruFish.label>
   <DruFish.description>O peixe seco obtido por secagem a frio é um produto semiacabado que requer processamento culinário adicional antes do consumo.</DruFish.description>
 
+  <DruFishPlastic.label>Peixe salgado seco em embalagem</DruFishPlastic.label>
+  <DruFishPlastic.description>O processo consiste em três etapas: salga, secagem e embalagem. A salga é obrigatória para um produto sem tratamento térmico: o sal destrói os parasitas se estiverem nos peixes e retarda os processos de decomposição. Uma vez embalado em plástico, pode ser armazenado quase para sempre.</DruFishPlastic.description>
+
   <MealFishAndBeer.label>Cerveja com peixe seco</MealFishAndBeer.label>
   <MealFishAndBeer.description>Cerveja e peixe parecem feitos um para o outro.</MealFishAndBeer.description>
 

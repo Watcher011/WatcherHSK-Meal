@@ -9,6 +9,10 @@
   <CookMealFishAndBeer.description>남자들을 위한 진짜 음식.</CookMealFishAndBeer.description>
   <CookMealFishAndBeer.jobString>열차.</CookMealFishAndBeer.jobString>
 
+  <CookMealFishinplastic.label>물고기를 플라스틱으로 밀봉하세요</CookMealFishinplastic.label>
+  <CookMealFishinplastic.description>힘든 시기를 위한 도시락.</CookMealFishinplastic.description>
+  <CookMealFishinplastic.jobString>열차.</CookMealFishinplastic.jobString>
+
   <MakeYzvar.label>우즈바르 요리하기</MakeYzvar.label>
   <MakeYzvar.description>말린 과일로 우즈바르를 요리하세요.</MakeYzvar.description>
   <MakeYzvar.jobString>우즈바르 요리.</MakeYzvar.jobString>

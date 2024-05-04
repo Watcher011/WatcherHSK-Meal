@@ -10,5 +10,8 @@
   <Make_DriedFish.label>seque o peixe</Make_DriedFish.label>
   <Make_DriedFish.description>Seque o peixe. O processo demora 2 dias.</Make_DriedFish.description>
 
+  <Make_icecream.label>Crie um sorvete simples</Make_icecream.label>
+  <Make_icecream.description>Crie sorvete como na infância</Make_icecream.description>
+
 
 </LanguageData>

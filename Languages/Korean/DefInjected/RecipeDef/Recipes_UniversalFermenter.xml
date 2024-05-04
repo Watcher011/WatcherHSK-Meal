@@ -10,5 +10,8 @@
   <Make_DriedFish.label>생선을 말리다</Make_DriedFish.label>
   <Make_DriedFish.description>생선을 말리세요. 이 과정은 2일이 소요됩니다.</Make_DriedFish.description>
 
+  <Make_icecream.label>간단한 아이스크림 만들기</Make_icecream.label>
+  <Make_icecream.description>어린 시절처럼 아이스크림 만들기</Make_icecream.description>
+
 
 </LanguageData>

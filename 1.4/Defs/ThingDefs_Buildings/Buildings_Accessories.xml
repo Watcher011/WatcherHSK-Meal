@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	
+	<ThingDef ParentName="UniversalFermenterBase" Class="UniversalFermenterSK.ThingDef_UF">
+		<defName>icecreamBasin</defName>
+		<label>Автомат с мороженым</label>
+		<drawerType>MapMeshAndRealTime</drawerType>
+		<graphicData>
+			 <graphicClass>Graphic_Multi</graphicClass>
+	  <shaderType>CutoutComplex</shaderType>
+	  <texPath>Things/icecream_MachinB/icecream_MachinB</texPath>
+	  <drawSize>(2.4,2.4)</drawSize>
+	  <drawRotated>true</drawRotated>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<size>(1,1)</size>
+		<uiIconPath>Things/icecream_MachinB/icecream_MachinB_UI</uiIconPath>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<thingCategories>
+			<li>BuildingsProduction</li>
+		</thingCategories>
+		<fillPercent>0.45</fillPercent>
+		<pathCost>60</pathCost>
+		<statBases>
+			<WorkToBuild>800</WorkToBuild>
+			<Mass>10</Mass>
+			<MaxHitPoints>100</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<description>Морозильный автомат.</description>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<costStuffCount>40</costStuffCount>
+		<costList>
+			<Mechanism>3</Mechanism>
+			<Glass>15</Glass>
+		</costList>
+		<building>
+			<uninstallWork>650</uninstallWork>
+		</building>
+		<comps>
+			<li Class="CompProperties_Forbiddable"/>
+				<li Class="CompProperties_Glower">
+				<glowRadius>3</glowRadius>
+				<glowColor>(117,77,213,0)</glowColor>
+			</li>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<basePowerConsumption>300</basePowerConsumption>
+				<soundPowerOn>Power_OnSmall</soundPowerOn>
+				<soundPowerOff>Power_OffSmall</soundPowerOff>
+			</li>
+			 <li Class="CompProperties_Spawner">
+        <thingToSpawn>SnowBlocks</thingToSpawn>
+        <spawnCount>3</spawnCount>
+        <spawnIntervalRange>26000~30000</spawnIntervalRange>
+        <spawnMaxAdjacent>40</spawnMaxAdjacent>
+        <spawnForbidden>true</spawnForbidden>
+      </li>
+		</comps>
+		<tickerType>Rare</tickerType>
+		<rotatable>true</rotatable>
+		<designationCategory>Production</designationCategory>
+		<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+		<researchPrerequisites>
+			<li>Food_C1</li>
+		</researchPrerequisites>
+		<!-- ThingDef_UF fields -->
+		<showProductIcon>false</showProductIcon>
+		<barOffset>(0.0, -0.18)</barOffset>
+		<barScale>(1.1, 1.1)</barScale>
+		<slotsCount>4</slotsCount>
+	</ThingDef>
+	
+	
+
+
+
+</Defs>
